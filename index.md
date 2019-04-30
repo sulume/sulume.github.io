@@ -1,7 +1,6 @@
 ---
 title: sulume
 ---
-# sulume
 
-- https://twitter.com/sulume
-- https://github.com/sulume
+- [twitter.com/sulume](https://twitter.com/sulume)
+- [github.com/sulume](https://github.com/sulume)
